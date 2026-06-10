@@ -58,13 +58,19 @@ Columns that didn't exist in the raw data, created manually:
 ---
 
 ## Dashboard Preview
+
 ![Executive Summary](screenshots/executive_summary.png)
+
 ![Product Analysis](screenshots/product_analysis.png)
+
 ![Customer Analysis](screenshots/customer_analysis.png)
+
 ![Geographic Analysis](screenshots/geographic_analysis.png)
 
 ## Code Snippets
+
 ![Feature Engineering](screenshots/feature_engineering.png)
+
 ![SQL Monthly Trend](screenshots/sql_monthly_trend.png)
 
 ---
