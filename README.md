@@ -23,7 +23,7 @@ Source: Kaggle
 
 ### 1. Data Cleaning (Pandas)
 - Loaded 541,910 rows of raw transaction data
-- Found and handled 135,000+ missing Customer IDs
+- Found 135,000+ missing Customer IDs
 - Removed negative quantities (returns/cancellations)
 - Converted date fields to datetime format
 
