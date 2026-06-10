@@ -59,9 +59,9 @@ Columns that didn't exist in the raw data, created manually:
 
 ## Dashboard Preview
 
-## Test
 
-![Executive Summary](./screenshots/executive_summary.png)
+
+![Executive Summary](screenshots/executive_summary.png)
 
 ![Product Analysis](screenshots/product_analysis.png)
 
