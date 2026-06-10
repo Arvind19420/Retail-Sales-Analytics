@@ -63,17 +63,17 @@ Columns that didn't exist in the raw data, created manually:
 
 ![Executive Summary](Retail_Sale_Analytics/screenshots/executive_summary.png)
 
-![Product Analysis](screenshots/product_analysis.png)
+![Product Analysis](Retail_Sale_Analyticsscreenshots/product_analysis.png)
 
-![Customer Analysis](screenshots/customer_analysis.png)
+![Customer Analysis](Retail_Sale_Analyticsscreenshots/customer_analysis.png)
 
-![Geographic Analysis](screenshots/geographic_analysis.png)
+![Geographic Analysis](Retail_Sale_Analyticsscreenshots/geographic_analysis.png)
 
 ## Code Snippets
 
-![Feature Engineering](screenshots/feature_engineering.png)
+![Feature Engineering](Retail_Sale_Analyticsscreenshots/feature_engineering.png)
 
-![SQL Monthly Trend](screenshots/sql_monthly_trend.png)
+![SQL Monthly Trend](Retail_Sale_Analyticsscreenshots/sql_monthly_trend.png)
 
 ---
 
