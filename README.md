@@ -61,7 +61,7 @@ Columns that didn't exist in the raw data, created manually:
 
 
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](Retail_Sale_Analytics/screenshots/executive_summary.png)
 
 ![Product Analysis](screenshots/product_analysis.png)
 
